@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    background-color:rgb(87, 220, 47);
+    border-radius: 16px;
+    font-size: 35px;
+    border: 5px solid black;
+}
+.xt{
+    width: 1000px;
+    margin-left: 250px;
+    margin-top: 200px;
+
+}
+body{
+    background-color: rgb(52, 48, 48);
+}
+.header{
+    display: flex;
+    background-color: black;
+    border: 15px solid rgb(87, 220,47);
+    border-radius: 15px;
+    height: 130px;
+    z-index: 999;
+}
+.header img{
+    border-right: 15px solid rgb(87, 220, 47);
+    
+}
+.one{
+    display: flex;
+    color:rgb(87, 220, 47);
+    align-items: center;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.contact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: rgb(87, 220, 47);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 321px;
+    text-decoration: none;
+    width: 200px;
+    transition: background-color 1s;
+    margin-left: 430px;
+}
+.contact:hover{
+    background-color:rgb(87, 220, 47);
+    color: black;
+}
+.download{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: rgb(87, 220, 47);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    width: 250px;
+    transition: background-color 1s;
+}
+.download:hover{
+    background-color:rgb(87, 220, 47);
+    color: black;
+}
+.amongus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    color: rgb(87, 220, 47);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    width: 250px;
+    transition: background-color 1s;
+}
+.amongus:hover{
+    background-color:rgb(87, 220, 47);
+    color: black;
+}
